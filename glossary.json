@@ -1,0 +1,381 @@
+{
+    "version":  1,
+    "revision":  3,
+    "entries":  [
+                    {
+                        "id":  "term0001",
+                        "source":  "真佛宗",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "True Buddha School"
+                                    },
+                        "aliases":  [
+
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0002",
+                        "source":  "蓮花童子",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "Padmakumara"
+                                    },
+                        "aliases":  [
+
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0003",
+                        "source":  "大禮拜",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "Great Homage"
+                                    },
+                        "aliases":  [
+
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0004",
+                        "source":  "南方寶生佛",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "Ratnasambhava Buddha of the South"
+                                    },
+                        "aliases":  [
+
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0005",
+                        "source":  "瑤池金母",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "Golden Mother of the Jade Pond"
+                                    },
+                        "aliases":  [
+                                        "金母"
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0006",
+                        "source":  "師尊",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "Grand Master"
+                                    },
+                        "aliases":  [
+
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0007",
+                        "source":  "師母",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "Grand Madam"
+                                    },
+                        "aliases":  [
+
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0008",
+                        "source":  "師佛",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "Guru Buddha"
+                                    },
+                        "aliases":  [
+
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0009",
+                        "source":  "高王觀世音菩薩",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "High King Avalokiteshvara Bodhisattva"
+                                    },
+                        "aliases":  [
+
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0010",
+                        "source":  "盧勝彥",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "Sheng-Yen Lu"
+                                    },
+                        "aliases":  [
+
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0011",
+                        "source":  "聖尊蓮生活佛",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "His Holiness Living Buddha Lian Sheng"
+                                    },
+                        "aliases":  [
+
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0012",
+                        "source":  "護摩",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "homa"
+                                    },
+                        "aliases":  [
+
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0013",
+                        "source":  "真佛宗傳承祖師",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "lineage gurus of True Buddha School"
+                                    },
+                        "aliases":  [
+
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0014",
+                        "source":  "華光自在佛",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "Lotus Light Perfect Ease Buddha"
+                                    },
+                        "aliases":  [
+
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0015",
+                        "source":  "大力金剛",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "Mahabala"
+                                    },
+                        "aliases":  [
+
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0016",
+                        "source":  "馬來西亞真佛宗密教總會",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "The Federation of True Buddha School Malaysia"
+                                    },
+                        "aliases":  [
+                                        "馬密總"
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0017",
+                        "source":  "修法儀軌",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "practice procedure"
+                                    },
+                        "aliases":  [
+
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0018",
+                        "source":  "般若",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "prajna"
+                                    },
+                        "aliases":  [
+                                        "別炸"
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0019",
+                        "source":  "疏文",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "prayer of intent"
+                                    },
+                        "aliases":  [
+
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0020",
+                        "source":  "頂禮",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "prostrate in homage"
+                                    },
+                        "aliases":  [
+
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0021",
+                        "source":  "五燈會元",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "A Compendium of the Five Lamps"
+                                    },
+                        "aliases":  [
+
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0022",
+                        "source":  "三十六萬億一十一萬九千五百同名同號阿彌陀佛",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "36 trillion 119 thousand and 500 Amitabha Buddhas of the same name"
+                                    },
+                        "aliases":  [
+
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0023",
+                        "source":  "摩頂",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "blessing bestowed on the crown of one\u0027s head"
+                                    },
+                        "aliases":  [
+                                        "摸頂"
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0024",
+                        "source":  "總持灌頂",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "all-inclusive empowerment"
+                                    },
+                        "aliases":  [
+
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    },
+                    {
+                        "id":  "term0025",
+                        "source":  "降頭",
+                        "sourceLang":  "zh-TW",
+                        "targets":  {
+                                        "en":  "black magic"
+                                    },
+                        "aliases":  [
+
+                                    ],
+                        "match":  "exact",
+                        "caseSensitive":  false,
+                        "enabled":  true,
+                        "priority":  100
+                    }
+                ]
+}
