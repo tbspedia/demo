@@ -6,5 +6,5 @@
 	"description": "真佛百科翻譯器.",
 	"author": "真佛百科",
 	"authorUrl": "https://www.tbpedia.org",
-	"isDesktopOnly": false
+	"isDesktopOnly": true
 }
